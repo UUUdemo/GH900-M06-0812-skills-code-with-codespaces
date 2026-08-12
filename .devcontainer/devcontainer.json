@@ -7,6 +7,7 @@
       "version": "latest"
     }
   },
+  "postCreateCommand": ".devcontainer/postCreate.sh",
   "customizations": {
     "vscode": {
       "extensions": [
